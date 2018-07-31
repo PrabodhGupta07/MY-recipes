@@ -1,0 +1,47 @@
+label,input{
+  display:block;
+}
+label{
+  margin-bottom: 10px;
+
+}
+input{
+  width: 500px;
+  margin-bottom: 25px;
+}
+input[type=Submit]{
+  width: 120px;
+  font-size:30 px;
+}
+input[type=text]{
+  border:2px solid #7facaa;
+  font-size: 24px;
+  padding: 7px;
+}
+textarea{
+  width: 200px;
+  height: 50px;
+  padding: 7px;
+  border: 2px solid #7facaa;
+  margin-bottom: 25px;
+  font-size: 24px;
+}
+input[type=checkbox],label[for=newsletter]
+{
+  display:inline;
+}
+.header img{
+  display: block;
+  margin: 0 auto 0 auto;
+
+}
+
+.header {
+  padding : 10px 10px 30px 10px;
+  background-color: #b56663;
+  text-align:center;
+}
+.header a{
+  color: #ffffff;
+  text-align: center;
+}

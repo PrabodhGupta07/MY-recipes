@@ -1,0 +1,21 @@
+h2{
+
+  margin: 20px 0 15px 0;
+  padding: 10px 0 3px 0;
+  border-bottom: 1px solid#cccccc;
+  font-size: 35px;
+}
+
+a{
+  color: #0000af;
+  text-decoration:none;
+}
+.header {
+  padding : 10px 10px 10px 10px;
+  background-color: #b56663;
+  text-align:center;
+}
+.header a{
+  color: #ffffff;
+  text-align: center;
+}
